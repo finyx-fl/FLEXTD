@@ -1,0 +1,13 @@
+{
+  "name": "flextd",
+  "version": "1.0.0",
+  "description": "FLEXTD - Flexible Text Deobfuscator by finyx-fl",
+  "main": "index.js",
+  "author": "finyx-fl",
+  "license": "GPL-3.0",
+  "keywords": ["flex", "text", "deobfuscator", "javascript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finyx-fl/FLEXTD.git"
+  }
+}
